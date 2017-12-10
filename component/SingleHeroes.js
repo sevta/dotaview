@@ -111,3 +111,6 @@ const styles = StyleSheet.create({
 
 
 export default SingleHeroes;
+
+
+// --- update indentation
