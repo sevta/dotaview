@@ -1,3 +1,3 @@
 export const themes = {
-	primary: 'dodgerblue',
+	primary: 'deepskyblue',
 }
